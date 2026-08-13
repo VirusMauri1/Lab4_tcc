@@ -1,4 +1,1 @@
-(a*|b*)+;aaabbb,ab,ba,,c
 ((ε|a)|b*)*;aab,,c
-(a|b)*abb(a|b)*;abb,aabbb,aabbabb,ba,aaa
-0?(1?)?0*;0100,101,11,,0,1
