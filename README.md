@@ -45,3 +45,7 @@ python3 problema1_afn_thompson.py entrada_1.txt afn
 | `0?(1?)?0*` | `0100`, `ε`, `0`, `1` | sí |
 | `0?(1?)?0*` | `101`, `11` | no |
 
+## Link del video
+
+https://youtu.be/gdbFR-RpYzw 
+
