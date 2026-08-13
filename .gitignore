@@ -1,0 +1,7 @@
+# Bytecode de Python
+__pycache__/
+*.pyc
+
+# Salidas generadas al ejecutar el script
+afn/
+afn_test/
